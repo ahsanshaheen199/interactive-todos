@@ -55,6 +55,6 @@
     <footer class="info">
         <p>Double-click to edit a todo</p>
         <!-- Change this out with your name and url ↓ -->
-        <p>Created by <a href="http://todomvc.com">Ahsan Habib Shaheen</a></p>
+        <p>Created by <a href="https://github.com/ahsanshaheen199">Ahsan Habib Shaheen</a></p>
     </footer>
 </div>
